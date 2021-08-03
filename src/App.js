@@ -2,9 +2,9 @@
 import{Busqueda} from './components/Busqueda';
 
 function App() {
-  return <>
+  return(<div className="general">
     <Busqueda/>        
-  </>
+  </div>)
 }
 
 export default App;
