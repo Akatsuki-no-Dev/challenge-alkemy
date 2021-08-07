@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { theme } from "./../../common/styles/variables";
 
 export const StyledContainer= styled.div`
-position:absolute;
+  position:absolute;
   width: 100%;
   height: 100%;
   display: flex;
